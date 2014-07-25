@@ -1,0 +1,56 @@
+{
+  "COFFEE" : [ {
+    "ingredientType" : "COFFEE",
+    "qty" : 3
+  }, {
+    "ingredientType" : "CREAM",
+    "qty" : 1
+  }, {
+    "ingredientType" : "SUGAR",
+    "qty" : 1
+  } ],
+  "CAFE_AMERICANO" : [ {
+    "ingredientType" : "ESPRESSO",
+    "qty" : 3
+  } ],
+  "CAPPUCCINO" : [ {
+    "ingredientType" : "ESPRESSO",
+    "qty" : 2
+  }, {
+    "ingredientType" : "STEAMED_MILK",
+    "qty" : 1
+  }, {
+    "ingredientType" : "FOAMED_MILK",
+    "qty" : 1
+  } ],
+  "DECAF_COFFEE" : [ {
+    "ingredientType" : "DECAF_COFFEE",
+    "qty" : 3
+  }, {
+    "ingredientType" : "CREAM",
+    "qty" : 1
+  }, {
+    "ingredientType" : "SUGAR",
+    "qty" : 1
+  } ],
+  "CAFE_LATTE" : [ {
+    "ingredientType" : "ESPRESSO",
+    "qty" : 2
+  }, {
+    "ingredientType" : "STEAMED_MILK",
+    "qty" : 1
+  } ],
+  "CAFE_MOCHA" : [ {
+    "ingredientType" : "ESPRESSO",
+    "qty" : 1
+  }, {
+    "ingredientType" : "COCOA",
+    "qty" : 1
+  }, {
+    "ingredientType" : "STEAMED_MILK",
+    "qty" : 1
+  }, {
+    "ingredientType" : "WHIPPED_CREAM",
+    "qty" : 1
+  } ]
+}
